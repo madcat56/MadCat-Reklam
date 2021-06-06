@@ -57,4 +57,4 @@ client.user.setGame(`MAD CAT is here`)
 
 
 
-client.login("ODUxMTkyOTg2Njk5Njk0MTIx.YL0tPg.ZydwxA7f9xcVdAsvC525wtxI8A0");//تۆکین لێرە دانێ
+client.login("");//تۆکین لێرە دانێ
