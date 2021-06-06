@@ -36,9 +36,9 @@ if(message.channel.type === 'dm') {
 
 if (message.content.startsWith("https://discord.gg/")) {
     
-  message.author.send(` دانرا تۆش ڕیکلامەکە بکە https://discord.gg/QbvDN7s7wr`) // لینکی سێرڤەری خۆت لیرە دابنی بە هەتا هەتای بێت
+  message.author.send(` دانرا تۆش ڕیکلامەکە بکە https://discord.gg/Kp5hM36DgB`) // لینکی سێرڤەری خۆت لیرە دابنی بە هەتا هەتای بێت
     
-  client.channels.get("827545462567338004").send(
+  client.channels.get("830539415293788222").send(
 `> <:By: <@${message.author.id}> ✅ 
 ${message.content}`)
 }
@@ -51,10 +51,10 @@ ${message.content}`)
 client.on('ready', () => {
 console.log(`ON ${client.guilds.size} Servers`);
 console.log(`Logged in as ${client.user.tag}!`);
-client.user.setGame(`MAD CAT UP BY JUST STAF`) 
+client.user.setGame(`MAD CAT is here`) 
 });
 
 
 
 
-client.login("ODMzMTE0MTg3Mzc4NzIwODQ4.YHtoDA.FSUvNQzBhNMDKeiUrJ6rVgqvcN4");//تۆکین لێرە دانێ
+client.login("ODUxMTkyOTg2Njk5Njk0MTIx.YL0tPg.ZydwxA7f9xcVdAsvC525wtxI8A0");//تۆکین لێرە دانێ
